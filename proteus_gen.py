@@ -2,7 +2,7 @@
 #
 # | Author       : 0xOceanus
 # | Name         : Proteus Gen
-# | Contact      : github.com/0x0ceanus
+# | Contact      : github.com/0xOceanus
 #
 #  This script is distributed for educational purposes only.
 #
